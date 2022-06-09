@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/88627606/172922326-31e98086-12de-42e3-84c9-7fd6e634c18f.png)
 
 # Telecom Churn Prediction
 

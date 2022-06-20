@@ -18,6 +18,12 @@ customers is the number one business goal.
 ### Objective
 - To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
 
+### Steps taken
+  #### 1. Reading and Understanding Data
+  #### 2. Exploratory Data Analysis
+  #### 3. Model Building
+  #### 4. Model Evaluation
+
 ### Challenges
 - The data given was not labelled, so biggest Challenges were to tag customers either `Churn` or `Non-Churn` based on the activities from previous data.
 - Next challange was to correctly identify all the potential chuner in churn phase.

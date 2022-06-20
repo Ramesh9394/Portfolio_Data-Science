@@ -29,7 +29,7 @@ customers is the number one business goal.
 - Next challange was to correctly identify all the potential chuner in churn phase.
 - There was huge class imbalance in the target variable. To tackle the class imbalance, we have used SMOTE technique.
 
-## 🛠 Skills
+## Skills
 - Python 
 - Pandas and Numpy
 - Matplotlib and Seaborn

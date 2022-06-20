@@ -18,7 +18,7 @@ customers is the number one business goal.
 ### Objective
 - To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
 
-### Steps taken
+### Steps for building a machine learning model
   #### 1. Reading and Understanding Data
   #### 2. Exploratory Data Analysis
   #### 3. Model Building
@@ -27,6 +27,8 @@ customers is the number one business goal.
 ### Challenges
 - The data given was not labelled, so biggest Challenges were to tag customers either `Churn` or `Non-Churn` based on the activities from previous data.
 - Next challange was to correctly identify all the potential chuner in churn phase.
+- There was huge class imbalance in the target variable. To tackle the class imbalance, we have used SMOTE technique.
+
 ## 🛠 Skills
 - Python 
 - Pandas and Numpy
@@ -35,15 +37,9 @@ customers is the number one business goal.
 - Supervised Machine Learning(Decision Tree, Random Forest, Boosting)
 - Unsupervised Machine Learning(Principle Component Analysis)
 
-
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
 
 ## Authors
